@@ -1,1 +1,2 @@
 this is file1
+this text is for feature1
